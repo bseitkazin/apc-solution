@@ -8,4 +8,4 @@ The test cases are located under `src/test/java/com/example/test/SolutionTest.ja
 
 To run this project you could use **Maven**. The instruction to intstall maven is [here](https://maven.apache.org/install.html).
 
-To run test cases using maven: `mvn test`.
+To run test cases using maven: `mvn test`
